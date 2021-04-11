@@ -1,0 +1,136 @@
+[
+    {
+        "name" : "iPad mini",
+        "price" : "499,000",
+        "image" : "ipad_mini.jpg",
+        "type" : "iPad",
+        "postId" : 1,
+        "id" : 1 
+    },
+
+    {
+        "name" : "iPad Pro 11",
+        "price" : "999,000",
+        "image" : "ipad_pro_11.jpg",
+        "type" : "iPad",
+        "postId" : 1,
+        "id" : 2
+    },
+
+    {
+        "name" : "iPad Pro 12.9",
+        "price" : "1,379,000",
+        "image" : "ipad_pro_12.jpg",
+        "type" : "iPad",
+        "postId" : 1,
+        "id" : 3 
+    },
+
+    {
+        "name" : "iPad Air",
+        "price" : "779,000",
+        "image" : "ipad_air.jpg",
+        "type" : "iPad",
+        "postId" : 1,
+        "id" : 4 
+    },
+
+    {
+        "name" : "iPad 8th",
+        "price" : "449,000",
+        "image" : "ipad_8th.jpg",
+        "type" : "iPad",
+        "postId" : 1,
+        "id" : 5
+    },
+
+    {
+        "name" : "Apple Pencil 2nd",
+        "price" : "165,000",
+        "image" : "apple_pencil_2nd.jpg",
+        "type" : "Apple Pencil",
+        "postId" : 1,
+        "id" : 7
+    },
+    
+    {
+        "name" : "Apple Pencil 1st",
+        "price" : "119,000",
+        "image" : "apple_pencil_1st.jpg",
+        "type" : "Apple Pencil",
+        "postId" : 1,
+        "id" : 8
+    },
+
+    {
+        "name" : "AirTag",
+        "price" : "39,000",
+        "image" : "airtag.jpg",
+        "type" : "AirTag",
+        "postId" : 1,
+        "id" : 9
+    },
+
+    {
+        "name" : "iPhone 12 Pro",
+        "price" : "1,350,000",
+        "image" : "iphone_12_pro.jpg",
+        "type" : "iPhone",
+        "postId" : 1,
+        "id" : 10
+    },
+
+    {
+        "name" : "iPhone 12 Pro Max",
+        "price" : "1,490,000",
+        "image" : "iphone_12_pro_max.jpg",
+        "type" : "iPhone",
+        "postId" : 1,
+        "id" : 11
+    },
+
+    {
+        "name" : "iPhone 12",
+        "price" : "1,090,000",
+        "image" : "iphone_12.jpg",
+        "type" : "iPhone",
+        "postId" : 1,
+        "id" : 12
+    },
+
+    {
+        "name" : "iPhone 12 mini",
+        "price" : "950,000",
+        "image" : "iphone_12_mini.jpg",
+        "type" : "iPhone",
+        "postId" : 1,
+        "id" : 13
+    },
+
+    {
+        "name" : "AirPods",
+        "price" : "249,000",
+        "image" : "airpods.jpg",
+        "type" : "AirPods",
+        "postId" : 1,
+        "id" : 14
+    },
+
+    {
+        "name" : "AirPods Pro",
+        "price" : "329,000",
+        "image" : "airpods_pro.jpg",
+        "type" : "AirPods",
+        "postId" : 1,
+        "id" : 15
+    },
+
+    {
+        "name" : "AirPods Max",
+        "price" : "719,000",
+        "image" : "airpods_max.jpg",
+        "type" : "AirPods",
+        "postId" : 1,
+        "id" : 16
+    }
+]
